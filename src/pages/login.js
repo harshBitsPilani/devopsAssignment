@@ -5,7 +5,10 @@ class Login extends Component {
     render(){
         return(
             <div>
-                
+                <Test>
+                    To show the conflict
+                </Test>
+
             </div>
         )
     }
