@@ -4,9 +4,9 @@ class Login extends Component {
     }
     render(){
         return(
-            <div>
+            <View>
                 
-            </div>
+            </View>
         )
     }
 }
